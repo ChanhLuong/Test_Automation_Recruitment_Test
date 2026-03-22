@@ -53,12 +53,13 @@ We are interested in seeing how you think about testing.
 
 Examples of areas you might explore include:
 
-Search behaviour and empty results
-Basket behaviour (remove item, quantity limits, totals)
-Product price consistency between listing, product page and basket
-Category navigation and pagination
-Basic accessibility checks (page titles, accessible buttons, keyboard behaviour)
-Visual regression of a key page such as the home page or product page
+- Search behaviour and empty results
+- Basket behaviour (remove item, quantity limits, totals)
+- Product price consistency between listing, product page and basket
+- Category navigation and pagination
+- Basic accessibility checks (page titles, accessible buttons, keyboard behaviour)
+- Visual regression of a key page such as the home page or product page
+
 You may choose any three scenarios you believe are valuable.
 
 Explain briefly **why you selected them.**
@@ -100,8 +101,8 @@ We are interested in seeing:
 # Task Requirements
 Please ensure the following requirements are met:
 - Complete the three tasks above
-- Provide clear setup and execution instructions
-* Create a README file explaining:
+- Provide **clear setup and execution instructions**
+- Create **a README file** explaining:
    * prerequisites
    * installation steps
    * how to run the tests
@@ -157,7 +158,11 @@ Is the code readable, maintainable and well structured?
 Do the selected scenarios provide confidence in the application?
 
 **Communication**
+
 Are the README instructions clear and easy to follow?
 
 **Automation Practice**
+
 Selectors, waits, reporting, structure and reliability.
+
+### 👋Thanks for your time, we look forward to hearing from you!
